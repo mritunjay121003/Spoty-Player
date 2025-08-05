@@ -30,7 +30,7 @@ nav ul li {
 }
 
 .brand img {
-    width: 55px;
+    width: 65px;
     padding: 0 8px;
 }
 
@@ -131,4 +131,5 @@ nav ul li {
 .songInfo img {
     opacity: 0;
     transition: opacity 0.4s ease-in;
+
 }
